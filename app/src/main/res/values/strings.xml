@@ -9,5 +9,4 @@
     <string name="ingredients">Ingredients</string>
     <string name="dessert_area_template">%s Dessert</string>
     <string name="generic_error">Something went wrong</string>
-    <string name="title_favorite">Favorite</string>
 </resources>
